@@ -12,4 +12,4 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <br>
 <br>
-<img src=""> <img src="">
+<img src="https://github.com/Morais82/sorteador-MS/blob/main/assets/Captura%20de%20tela%202025-02-27%20212141.png?raw=true"> <img src="">
